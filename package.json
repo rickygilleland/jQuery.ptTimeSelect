@@ -2,7 +2,10 @@
   "name": "jquery.pttimeselect",
   "version": "0.8.0",
   "description": "Time Picker plugin for jQuery",
-  "main": "src/jquery.ptTimeSelect.js",
+  "main":[
+   "src/jquery.ptTimeSelect.css",
+   "src/jquery.ptTimeSelect.js"
+  ],
   "directories": {
     "doc": "doc",
     "example": "example"
